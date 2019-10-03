@@ -1,5 +1,5 @@
-# Push Workshop PhoneGap App
-PhoneGap Day US workshop - Simple mobile application built showing how to handle various push notification services.
+# Adobe I/O Lab
+Adobe I/O Lab - Build event-driven integrations using Adobe I/O Events
 
 ### [Workshop Guide with Step by Step Modules](http://macdonst.github.io/push-workshop)
 
