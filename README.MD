@@ -1,27 +1,16 @@
 # Adobe I/O Lab
+
 Adobe I/O Lab - Build event-driven integrations using Adobe I/O Events
 
 ### [Workshop Guide with Step by Step Modules](http://macdonst.github.io/push-workshop)
 
 Requirements
 ============
-- jQuery.js
-- Materialize
-- fontawesome (icons)
+- Adobe ID 
+- an internet connection
+- a text editor
+- git installed so you can clone my lab github repo and pull it again during the lab
+- An AEM 6.4.x instance, with administrative permissions
 
-Required Plugins
-================
- **NOTE:** These plugins will automatically get added into your projects when a platform is added if you use the config.xml located within the
-project repo. Simply create a PhoneGap project then replace the config.xml and www folder with this one. ` $ phonegap create myPushApp`
 
-- cordova-plugin-console 1.0.2 "Console"
 
-        $ phonegap plugin add cordova-plugin-console
-
-- cordova-plugin-statusbar 2.0.0 "StatusBar"
-
-        $ phonegap plugin add cordova-plugin-statusbar
-
-- phonegap-plugin-push 1.5.3 "PushPlugin"
-
-        $ phonegap plugin add phonegap-plugin-push
