@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.pgday.workshop.push" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>PushWorkshop</name>
+    <name>Adobe I/O Events</name>
 
     <description>
-      A sample app for PhoneGap Day Push Workshop 2016.
+      Build event-driven integrations with Adobe I/O Events
     </description>
 
-    <author email="dev@phonegap.com" href="http://phonegap.com">
-    	Simon MacDonald
+    <author email="kgera@adobe.com" href="https://www.adobe.io/">
+    	Kanika Gera
     </author>
 
     <content src="index.html" />
