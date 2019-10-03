@@ -1,10 +1,10 @@
 ---
 layout: home
-title: PhoneGap Day US Push Workshop
+title: Adobe I/O Events Lab
 ---
 
 ## What You Will Build
-In this workshop you will learn how to create a simple mobile application using PhoneGap with HTML, JavaScript and CSS. We'll go over a the ways to handle incoming push notifications to provide a native experience.
+In this Lab you will learn how to create and implement a real-time and lightweight event-driven integration with almost no code.
 
 <img class="screenshot" src="images/push1.png"/>
 <img class="screenshot" src="images/push2.png"/>
@@ -18,38 +18,33 @@ In this workshop you will learn how to create a simple mobile application using 
 
 ## Pre-requisites
 
-### Android Pre-requisites
-
 - Google Cloud Messaging Project ID
 - Google Cloud Messaging API Key for above Project ID (need for server)
 
-### iOS Pre-requisites
-
-- App ID configured for Push Notifications on Apple Developer Portal
-- SSL Certificate and private key (need for server)
 
 ## Requirements
 
-- A working knowledge of HTML and JavaScript is assumed, but you don't need to be a JavaScript guru.
+- Adobe ID
+- an internet connection
+- a text editor
+- git installed so you can clone my lab github repo and pull it again during the lab
+- An AEM 6.4 jar
 
-- To complete this workshop, all you need is a code editor, an Android or iOS device, and a connection to the Internet.
-
->A mobile device **is** a requirement for this tutorial. The iOS simulator does not support push notifications and the less said about the Android emulator the better.
+> Having an AEM instance with administrative permission 
 
 ## Useful Resources
-1. [GCM Project Creation](http://docs.urbanairship.com/reference/push-providers/gcm.html) - a guide from Urban Airship on setting up a project with GCM enabled.
-2. [Apple Push Configuration](http://docs.urbanairship.com/reference/push-providers/apns.html) - a guide from Urban Airship on creating the certificate and permission files to enable APNS.
+1. [AEM 6.4 Download] (https://wiki.corp.adobe.com/pages/viewpage.action?pageId=1218217225#Download(AEM)-InternalDownload) - Downlaod AEM 6.4 jar from the provided location
 
 ## Issues/Feedback
 
-- Please create an issue [here](https://github.com/macdonst/push-workshop/issues) if you run
+- Please create an issue [here](https://github.com/kgera/IOEvents-Lab/issues) if you run
 into any problems or if you have feedback.
 
-- You can contact me on Twitter:
+- You can follow us on Twitter:
 
-    <a href="https://twitter.com/macdonst" class="twitter-follow-button" data-show-count="true"
+    <a href="https://twitter.com/adobedevs" class="twitter-follow-button" data-show-count="true"
     data-size="large" data-lang="en">Follow
-    @macdonst</a>
+    @adobedevs</a>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 
